@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "name": "Tushar",
+      "mobno": "978456654",
+      "password": "wfqeadszcxgrsfd",
+      "id": 1
+    },
+    {
+      "name": "Tushar",
+      "mobno": "789654",
+      "password": "rgfads",
+      "id": 2
+    },
+    {
+      "name": "Ashwini Patil",
+      "mobno": "7984651",
+      "password": "txfcgbvhjn",
+      "id": 3
+    },
+    {
+      "name": "Shubham Khopdi",
+      "mobno": "9788549",
+      "password": "setdrgfy",
+      "id": 4
+    },
+    {
+      "name": "Anjali Patil",
+      "mobno": "984756",
+      "password": "efasdZXfadv",
+      "id": 5
+    }
+  ]
+}
